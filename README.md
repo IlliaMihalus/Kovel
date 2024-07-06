@@ -5,7 +5,7 @@
         <img src="https://kartinkof.club/uploads/posts/2022-05/1653683364_1-kartinkof-club-p-veselie-kartinki-na-avatarku-vatsap-1.jpg" width="100px" height="100px">
     </title>
         <body style="background:Yellow">
-            <header>https://github.com/IlliaMihalus/Kovel
+            <header>
                 <h1 style="text-align:center;color:RoyalBlue;background-color:MediumSpringGreen"><i>Моє маленьке місто Ковель</i></h1>   
                 <h2> <a href="https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D0%B2%D0%B5%D0%BB%D1%8C">Ковель</a> — місто на заході <a href="https://uk.wikipedia.org/wiki/%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0">України</a>, розташоване у <a href="https://uk.wikipedia.org/wiki/%D0%92%D0%BE%D0%BB%D0%B8%D0%BD%D1%81%D1%8C%D0%BA%D0%B0_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C">Волинській області.</a></h2>
                 <img src="https://f.discover.ua/city/101/FTNNE.jpg" width="700px"> 
